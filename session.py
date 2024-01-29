@@ -5,3 +5,8 @@ def addition(a,b):
 def subtraction(a,b):
     diff = a-b
     return diff
+
+
+def cubed(x):
+    cube = x**3
+    return cube
