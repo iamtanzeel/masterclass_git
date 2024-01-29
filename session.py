@@ -1,5 +1,5 @@
-def addition(a,b):
-    total = a+b
+def addition(a,b,c):
+    total = a+b+c
     return total
 
 def subtraction(a,c):
