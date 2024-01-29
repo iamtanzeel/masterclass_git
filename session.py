@@ -2,8 +2,8 @@ def addition(a,b):
     total = a+b
     return total
 
-def subtraction(a,b):
-    diff = a-b
+def subtraction(a,c):
+    diff = a-c
     return diff
 
 
