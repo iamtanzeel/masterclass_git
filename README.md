@@ -10,5 +10,5 @@
 
 data source: [Kaggle](https://www.kaggle.com/datasets/asaniczka/pc-parts-images-dataset-classification)
 
-![image](https://github.com/iamtanzeel/masterclass_git/assets/125236453/bc0c400f-cd10-4fb8-8e92-42ac1199f412)
+
 
